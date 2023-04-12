@@ -7,5 +7,4 @@ function generatePassword(length) {
   return password;
 }
 
-// Example usage
-console.log(generatePassword(12)); // Generates a random password with 12 characters
+console.log(generatePassword(10)); // Generates a random password with 10 characters
